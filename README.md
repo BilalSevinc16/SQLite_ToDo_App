@@ -2,6 +2,8 @@
 
 ToDo App with SQLite
 
-![1](https://github.com/BilalSevinc16/SQLite_ToDo_App/assets/146417248/ba3e2aa1-fa60-478b-9722-0139f4f1c881)
+![1](https://github.com/BilalSevinc16/SQLite_ToDo_App/assets/146417248/5f19fa72-ce75-438d-bc81-388536bb39e5)
 
-![2](https://github.com/BilalSevinc16/SQLite_ToDo_App/assets/146417248/a083ed9d-98d6-48aa-a4e6-e1c6969967f2)
+![2](https://github.com/BilalSevinc16/SQLite_ToDo_App/assets/146417248/43b4f235-66e1-45cd-9ef0-ecd3d898bb75)
+
+![3](https://github.com/BilalSevinc16/SQLite_ToDo_App/assets/146417248/7d166962-e5e3-4ef9-b0b7-5a0970840e3e)
