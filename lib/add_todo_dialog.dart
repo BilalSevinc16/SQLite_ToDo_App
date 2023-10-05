@@ -15,15 +15,15 @@ class AddTodoDialog {
       releaseDateTEXT.text = todo.releaseDate;
     }
     return AlertDialog(
-      title: Text(isEdit ? "Todo Düzenle" : "Todo Ekle"),
+      title: Text(isEdit ? "Edit Todo" : "Add Todo"),
       content: SingleChildScrollView(
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            getTextField("Başlığı gir", titleTEXT),
-            getTextField("Tarihi gir DD-MM-YYYY", releaseDateTEXT),
+            getTextField("Enter title", titleTEXT),
+            getTextField("Enter date DD-MM-YYYY", releaseDateTEXT),
             TextButton(
-              child: isEdit ? const Text("Düzenle") : const Text("Ekle"),
+              child: isEdit ? const Text("Edit") : const Text("Add"),
               onPressed: () {
                 addUpdateRecord(isEdit);
                 myHomePageState.displayRecord();
